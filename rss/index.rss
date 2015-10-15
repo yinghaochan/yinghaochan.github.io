@@ -1,8 +1,8 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>material methods</title><description>Ying Hao Chan</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Thu, 15 Oct 2015 21:57:13 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Awesome Finder finds</title><description>&lt;p&gt;(also known as &lt;em&gt;how to make OS X finder suck less&lt;/em&gt;)&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>material methods</title><description>Ying Hao Chan</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Thu, 15 Oct 2015 22:02:31 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Awesome Finder finds</title><description>&lt;p&gt;(also known as &lt;em&gt;how to make OS X finder suck less&lt;/em&gt;)&lt;/p&gt;
 
 &lt;p&gt;Just a few years ago, dragging files into a folder would delete whatever previously used to be in there. &lt;/p&gt;
 
-&lt;p&gt;Thus, people used to the snappy, animation free nature of windows might find OS X sluggish and occasionally deadly to&lt;/p&gt;</description><link>http://localhost:2368/awesome-finder-finds/</link><guid isPermaLink="false">23f7b352-6995-4550-85db-1567af77e517</guid><dc:creator>Ying Hao Chan</dc:creator><pubDate>Thu, 15 Oct 2015 21:23:11 GMT</pubDate><media:content url="http://localhost:2368/content/images/2015/10/sad_finder_dock_icon_by_cporsdesigns-1.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2015/10/sad_finder_dock_icon_by_cporsdesigns-1.png" alt="Awesome Finder finds"&gt;&lt;p&gt;(also known as &lt;em&gt;how to make OS X finder suck less&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;Thus, people used to the snappy, animation free nature of windows might find OS X sluggish and occasionally deadly to&lt;/p&gt;</description><link>http://localhost:2368/awesome-finder-finds/</link><guid isPermaLink="false">23f7b352-6995-4550-85db-1567af77e517</guid><category>finder</category><dc:creator>Ying Hao Chan</dc:creator><pubDate>Thu, 15 Oct 2015 21:23:11 GMT</pubDate><media:content url="http://localhost:2368/content/images/2015/10/sad_finder_dock_icon_by_cporsdesigns-1.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2015/10/sad_finder_dock_icon_by_cporsdesigns-1.png" alt="Awesome Finder finds"&gt;&lt;p&gt;(also known as &lt;em&gt;how to make OS X finder suck less&lt;/em&gt;)&lt;/p&gt;
 
 &lt;p&gt;Just a few years ago, dragging files into a folder would delete whatever previously used to be in there. &lt;/p&gt;
 
@@ -56,4 +56,14 @@
 &lt;p&gt;Open files like Sublime's  ⌘ + P!&lt;/p&gt;
 
 &lt;p&gt;Open finder preferences by hitting ⌘ + , and do this: &lt;br&gt;
-&lt;img src="http://localhost:2368/content/images/2015/10/Screen-Shot-2015-10-15-at-2-10-21-PM.png" alt="Awesome Finder finds"&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;img src="http://localhost:2368/content/images/2015/10/Screen-Shot-2015-10-15-at-2-10-21-PM.png" alt="Awesome Finder finds"&gt;&lt;/p&gt;
+
+&lt;h4 id="getridoffinder"&gt;Get rid of finder&lt;/h4&gt;
+
+&lt;p&gt;Here are two options that could do away with finder hell all together:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.cocoatech.com/pathfinder/"&gt;Pathfinder&lt;/a&gt;
+&lt;img src="http://www.cocoatech.com/assets/images/ss-photos.png" alt="Awesome Finder finds"&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://totalfinder.binaryage.com/"&gt;Total Finder&lt;/a&gt;
+&lt;img src="http://static.binaryage.com/5316853f_images_showcase_full-clabels.png" alt="Awesome Finder finds"&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
