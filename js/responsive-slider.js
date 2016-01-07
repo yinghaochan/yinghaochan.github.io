@@ -423,7 +423,7 @@
       parallax: true,
       parallaxDistance: 1 / 10,
       parallaxDirection: 1,
-      transitionTime: 1400,
+      transitionTime: 800,
       moveDistanceToSlideChange: 4,
       onSlideChange: function() {},
       onSlideNext: function() {},
