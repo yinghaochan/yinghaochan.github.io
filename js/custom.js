@@ -3,9 +3,11 @@
 $(window).scroll(function() {    
     var scroll = $(window).scrollTop();
 
-    if (scroll >= 100) {
+    if (scroll >= 80) {
         $(".header").addClass("bgchange");
+        $("#myName").hide();
     } else {
+        $("#myName").show();
         $(".header").removeClass("bgchange");
     }
 });
