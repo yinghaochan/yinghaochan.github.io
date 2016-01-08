@@ -1,4 +1,19 @@
 <!DOCTYPE html>
+<!--
+  
+    ╔╗─╔╦═══╦╗──╔╗──╔═══╗╔╗
+    ║║─║║╔══╣║──║║──║╔═╗║║║
+    ║╚═╝║╚══╣║──║║──║║─║║║║
+    ║╔═╗║╔══╣║─╔╣║─╔╣║─║║╚╝
+    ║║─║║╚══╣╚═╝║╚═╝║╚═╝║╔╗
+    ╚╝─╚╩═══╩═══╩═══╩═══╝╚╝
+
+    If you'd like to see a code sample, please go to GitHub. 
+    This is simply a bootstrap theme that I got for 10 bucks 
+    that does the job of showcasing my photos. 
+    
+-->
+
 <html lang="en">
 
 <head>
@@ -29,7 +44,7 @@
 	 <header id="block01" class="header block">
     <div class="container header_block">
     <!-- this used to be left button -->
-    <h2 id="myName">Ying Hao Chan</h2>
+    <a href="#"> <h2 id="myName">Ying Hao Chan</h2> </a>
     <div class="overlay overlay-hugeinc">
 			<button type="button" class="overlay-close">X</button>
 			<nav>
@@ -43,23 +58,25 @@
       <div class="link-icons">
         <ul>
         <!-- From the right... -->
-          <li><a class="color01" href="#"><i class="fa fa-facebook-square">&nbsp;</i></a></li>
+          <li><a class="color01" href="http://fb.yhc.io"><i class="fa fa-facebook-square">&nbsp;</i></a></li>
           <li><a class="color01" href="http://linkedin.yhc.io"><i class="fa fa-linkedin-square">&nbsp;</i></a></li>
           <li><a class="color01" href="https://www.instagram.com/knifemade/"><i class="fa fa-instagram">&nbsp;</i></a></li>
           <li><a class="color01" href="http://angel.yhc.io"><i class="fa fa-angellist">&nbsp;</i></a></li>
           <li><a class="color01" href="http://github.yhc.io"><i class="fa fa-github">&nbsp;</i></a></li>
-          <li><a class="color01" href="#"><i class="fa fa-envelope-o">&nbsp;</i></a></li>
+          <li><a class="color01" href="mailto:web@yhc.io"><i class="fa fa-envelope-o">&nbsp;</i></a></li>
         </ul>
          </div></div>
     </div>
   </header>
   <!-- /block01 --> 
     <div class="row"> 
-      <div class="responsive-slider" data-spy="responsive-slider" data-autoplay="false">
+      <div class="responsive-slider" data-touch="true" data-spy="responsive-slider" data-autoplay="false">
         <div class="slides" data-group="slides">
           <ul>
             <li>
-              <div class="slide-body" data-group="slide"> <img src="img/slides/1.jpg" alt="Slide01">
+              <div class="slide-body" data-group="slide"> 
+                <img src="img/slides/1.jpg"   sizes="(max-width: 40em) 150vh, 100vh"
+                srcset="img/slides/1.jpg 1x, img/slides/1@2x.jpg 1.6x" alt="Slide01">
                <div class="slide_textholder">
                <div class="container holderinner"> <div class="caption subheader " >
                     <h3 class="copper text-left">RESUME </h3>
@@ -89,24 +106,28 @@
                 
             </li>
            <li>
-              <div class="slide-body" data-group="slide"> <img src="img/slides/2.jpg"  alt="">
+              <div class="slide-body" data-group="slide"> 
+                <img src="img/slides/2.jpg"   sizes="(max-width: 40em) 150vh, 100vh"
+                srcset="img/slides/2.jpg 1x, img/slides/2@2x.jpg 1.6x" alt="">
                <div class="slide_textholder">
                <div class="container holderinner"> <div class="caption subheader" >
                   <h1 class="color01"> </h1>
                   <div class="caption sub color01" ></div>
                 </div>
-                <a class="slider-control left color01-hover" href="#" data-jump-to="1"><i class="fa fa-chevron-left">&nbsp;</i></a>
+                <a class="slider-control left lighter color01-hover" href="#" data-jump-to="1"><i class="fa fa-home"></i></a>
                 </div></div>
               </div>
             </li>
             <li>
-              <div class="slide-body" data-group="slide"> <img src="img/slides/4.jpg" alt="Slide01">
+              <div class="slide-body" data-group="slide"> 
+                <img src="img/slides/4.jpg"   sizes="(max-width: 40em) 150vh, 100vh"
+                srcset="img/slides/4.jpg 1x, img/slides/4@2x.jpg 1.6x" alt="Slide01">
                <div class="slide_textholder">
                <div class="container holderinner"> <div class="caption subheader" >
                   <h1 class="color01"> </h1>
                   <div class="caption sub color01" ></div>
                 </div>
-                <a class="slider-control left color01-hover" href="#" data-jump-to="1"><i class="fa fa-chevron-left">&nbsp;</i></a>
+                <a class="slider-control left lighter color01-hover" href="#" data-jump-to="1"><i class="fa fa-home"></i></a>
                </div></div>
               </div>
             </li>
@@ -139,7 +160,8 @@
             </div>
           
             <div class="footer_logo col-md-12">
-            <span class="rw-light color02">2016 Ying Hao Chan</span>
+              <a href="mailto:web@yhc.io">
+            <span class="rw-light color02">2016 Ying Hao Chan</span></a>
             </div>
             </div>
         </div>
