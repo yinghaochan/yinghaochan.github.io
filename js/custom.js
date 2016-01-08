@@ -24,6 +24,10 @@ $(window).scroll(function() {
     $(".turn").click(function(){
         $(".address").slideUp("slow");
     });
+    
+    $("h2#myName").click(function(){
+      $('.responsive-slider').responsiveSlider(1);
+    });
 
     jQuery(document).ready(function( $ ) {
         $('.counter').counterUp({
