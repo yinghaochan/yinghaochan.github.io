@@ -81,10 +81,9 @@ i.indent1{
 
 @media only screen and (max-width: 640px){
   #block02 .responsive-slider .slides ul li .slide-body img {
-    filter: blur(3px) contrast(0.8);
-    -webkit-filter: blur(3px) contrast(0.8);
     max-width: auto;
     width: auto;
+    height: 160vh;
     overflow: hidden;
   }
   #block01 .link-icons{
